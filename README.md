@@ -3,11 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skoczy01&label=Profile%20views&color=0e75b6&style=flat" alt="skoczy01" /> </p>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 🔭 I’m currently working on **my Portfolio and React learning**
 
 - 🌱 I’m currently learning **|<s>HTML</s>| |<s>CSS</s>| |<s>SASS</s>| |<s>JS</s>| - | React 👈 | Typescript | Next.js**
 
 - 📫 How to reach me **filip.skoczylas00@wp.pl**
+
+- 👨‍💻 Started coding with first course **28.04.2021**
+
+- 💻 Started first commit etc with GitHub **01.06.2022**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
