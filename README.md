@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/filip-skoczylas-a89662200/" target="_blank"><img align="center " src="https://iconape.com/wp-content/files/yd/367773/svg/logo-linkedin-logo-icon-png-svg.png" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/filip-skoczylas-a89662200/" target="_blank"><img align="center " src="https://www.svgrepo.com/show/9911/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://discord.gg/skoczy#3145" target="_blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="skoczy#3145" height="30" width="40" /></a>
 </p>
 
