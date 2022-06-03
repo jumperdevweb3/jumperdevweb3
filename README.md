@@ -11,7 +11,7 @@
 
 - 👨‍💻 Started coding with first course **28.04.2021**
 
-- 💻 Started first commit etc with GitHub **01.06.2022**
+- 💻 Started first commit etc with GitHub **23.05.2022**
 
 
 <h3 align="left">Connect with me:</h3>
