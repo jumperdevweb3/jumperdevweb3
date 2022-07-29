@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skoczy01&label=Profile%20views&color=0e75b6&style=flat" alt="skoczy01" /> </p>
 
@@ -11,7 +10,7 @@
 
 - 👨‍💻 Started coding with first course **28.04.2021**
 
-- 💻 Started first commit etc with GitHub **23.05.2022**
+- 💻 Started with GitHub **23.05.2022**
 
 
 <h3 align="left">Connect with me:</h3>
