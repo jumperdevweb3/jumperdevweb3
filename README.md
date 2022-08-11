@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my Portfolio and React learning**
 
-- 🌱 I’m currently learning **|<s>HTML</s>| |<s>CSS</s>| |<s>SASS</s>| |<s>JS</s>| - |<s>React</s>| Typescript 👈| Next.js | WEB3 |**
+- 🌱 I’m currently learning **|<s>HTML</s>| |<s>CSS</s>| |<s>SASS</s>| |<s>JS</s>| |<s>React</s>| - |Typescript 👈| Next.js | WEB3 |**
 
 - 📫 How to reach me **filip.skoczylas00@wp.pl**
 
