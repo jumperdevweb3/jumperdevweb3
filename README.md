@@ -14,7 +14,10 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/filip-skoczylas-a89662200/" target="_blank"><img align="center " src="https://www.svgrepo.com/show/9911/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
