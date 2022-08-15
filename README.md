@@ -6,11 +6,7 @@
 
 - 🌱 I’m currently learning **|<s>HTML</s>| |<s>CSS</s>| |<s>SASS</s>| |<s>JS</s>| |<s>React</s>| - |Typescript 👈| Next.js | WEB3 |**
 
-- 📫 How to reach me **filip.skoczylas00@wp.pl**
-
-- 👨‍💻 Started coding with first course **28.04.2021**
-
-- 💻 Started with GitHub **23.05.2022**
+- 📫 How to reach me **filip.skoczylas00@icloud.com**
 
 
 <h3 align="left">Connect with me:</h3>
