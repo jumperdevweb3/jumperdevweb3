@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skoczy01&label=Profile%20views&color=0e75b6&style=flat" alt="skoczy01" /> </p>
 
-- 🔭 I’m currently working on **my Portfolio and React learning**
+- 🔭 I’m currently working on **my Portfolio and Typescript learning**
 
 - 🌱 I’m currently learning **|<s>HTML</s>| |<s>CSS</s>| |<s>SASS</s>| |<s>JS</s>| |<s>React</s>| - |Typescript 👈| Next.js | WEB3 |**
 
