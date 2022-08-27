@@ -39,15 +39,15 @@
      <img src="https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=react"/>
      <img src="https://img.shields.io/badge/-React%20Transition%20Group-05122A?style=flat&logo=react"/>
      <img src="https://img.shields.io/badge/-React%20Redux-05122A?style=flat&logo=redux"/>
-     <br>
      <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js"/>
+     <br>
+     <img src="https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite"/>
      <img src="https://img.shields.io/badge/-BEM-05122A?style=flat&logo=bem"/>
      <img src="https://img.shields.io/badge/-RWD-05122A?style=flat&logo=css3" />
      <br>
      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
      <br>
-     <img src="https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite"/>
      <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma"/>
      <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>
      <br>
