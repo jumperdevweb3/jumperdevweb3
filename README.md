@@ -44,13 +44,11 @@
      <br>
      <img src="https://img.shields.io/badge/-BEM-05122A?style=flat&logo=bem"/>
      <img src="https://img.shields.io/badge/-RWD-05122A?style=flat&logo=css3" />
-     <br>
      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
      <br>
      <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma"/>
      <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>
-     <br>
      <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode"/>
      <img src="https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm"/>
    </td>
