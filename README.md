@@ -19,7 +19,7 @@
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.yourstory.com%2Fproduction%2Fdocument_image%2Fmystoryimage%2Fy8km26zg-becoming-a-web-developer-in-2016.jpg%3Ffm%3Dpng%26auto%3Dformat&f=1&nofb=1"/>
+        <img height="300em" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.yourstory.com%2Fproduction%2Fdocument_image%2Fmystoryimage%2Fy8km26zg-becoming-a-web-developer-in-2016.jpg%3Ffm%3Dpng%26auto%3Dformat&f=1&nofb=1"/>
      </p>
     </td>
   </tr>
