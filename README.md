@@ -17,6 +17,11 @@
         <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skoczy01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
     </td>
+     <td>
+     <p align="center">
+        <img height="300em" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.yourstory.com%2Fproduction%2Fdocument_image%2Fmystoryimage%2Fy8km26zg-becoming-a-web-developer-in-2016.jpg%3Ffm%3Dpng%26auto%3Dformat&f=1&nofb=1"/>
+     </p>
+    </td>
   </tr>
   <tr>
    <td>
