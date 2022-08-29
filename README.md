@@ -9,8 +9,8 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>👑 &nbsp; Computer scientist </li>
-        <li>🎓 &nbsp; Frontend Developer interested in web3 but not only.</li>
+        <li>👑 &nbsp;Computer scientist </li>
+        <li>🎓 &nbsp;Frontend Developer interested in web3 but not only.</li>
        </ul>
        <p align="center">
          <br>
