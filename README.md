@@ -18,8 +18,20 @@
         </p>
     </td>
      <td>
-     <p align="center">
-        <img height="300em" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.yourstory.com%2Fproduction%2Fdocument_image%2Fmystoryimage%2Fy8km26zg-becoming-a-web-developer-in-2016.jpg%3Ffm%3Dpng%26auto%3Dformat&f=1&nofb=1"/>
+      <h2> 📚 &nbsp;Courses I have completed and can recommend </h2>
+       <ul>
+        <li>📖 &nbsp; <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/" >
+      React - The Complete Guide (incl Hooks, React Router, Redux)
+      </a> </li>
+        <li>📖 &nbsp; <a href="https://www.udemy.com/course/nextjs-react-the-complete-guide/" >
+      Next.js & React - The Complete Guide (incl. Two Paths!)
+      </a> </li>
+       <li>📖 &nbsp; <a href="https://www.udemy.com/course/understanding-typescript/" >
+      Understanding TypeScript - 2022 Edition
+      </a> </li>
+       </ul>
+       <p align="center">
+        <img height="150em" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.yourstory.com%2Fproduction%2Fdocument_image%2Fmystoryimage%2Fy8km26zg-becoming-a-web-developer-in-2016.jpg%3Ffm%3Dpng%26auto%3Dformat&f=1&nofb=1"/>
      </p>
     </td>
   </tr>
