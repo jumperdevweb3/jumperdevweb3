@@ -11,6 +11,7 @@
        <ul>
         <li>👑 &nbsp;Computer scientist </li>
         <li>🎓 &nbsp;Frontend Developer interested in web3 but not only.</li>
+        <li>📧 &nbsp; filip.skoczylas00@icloud.com
        </ul>
        <p align="center">
          <br>
