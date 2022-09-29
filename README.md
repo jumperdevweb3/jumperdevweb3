@@ -11,7 +11,6 @@
        <ul>
         <li>👑 &nbsp;Computer scientist </li>
         <li>🎓 &nbsp;Frontend Developer interested in web3 but not only.</li>
-        <li>📧 &nbsp; filip.skoczylas00@icloud.com </li>
        </ul>
        <p align="center">
          <br>
@@ -73,6 +72,7 @@
       </p>
       <br>
       <p>📧 &nbsp; filip.skoczylas00@icloud.com </p>
+      <p>or</p>
       <a href="https://www.linkedin.com/in/filipskoczylas/" >
       <img align="center" alt="Filip | LinkedIn" width="30em" src="https://www.svgrepo.com/show/9911/linkedin.svg" />
       </a> &nbsp;&nbsp;
