@@ -49,7 +49,6 @@
      <br>
      <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
      <img src="https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=react"/>
-   
      <img src="https://img.shields.io/badge/-React%20Redux-05122A?style=flat&logo=redux"/>
      <img src="https://img.shields.io/badge/-Redux%20Toolkit-05122A?style=flat&logo=redux"/>
      <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js"/>
