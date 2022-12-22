@@ -72,11 +72,6 @@
       </p>
       <br>
       <p>📧 &nbsp; filip.skoczylas00@icloud.com </p>
-      <p>or</p>
-      <a href="https://www.linkedin.com/in/filipskoczylas/" >
-      <img align="center" alt="Filip | LinkedIn" width="30em" src="https://www.svgrepo.com/show/9911/linkedin.svg" />
-      </a> &nbsp;&nbsp;
-      <br>
     </div>
    </td>
   </tr>
