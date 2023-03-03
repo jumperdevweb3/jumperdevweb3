@@ -71,7 +71,7 @@
       <p>I'm open to new contacts and proposals
       </p>
       <br>
-      <p>📧 &nbsp; filip.skoczylas00@icloud.com </p>
+      <p>📧 &nbsp; jumperweb3dev@gmail.com </p>
     </div>
    </td>
   </tr>
