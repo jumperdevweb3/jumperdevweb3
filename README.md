@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skoczy01&label=Profile%20views&color=0e75b6&style=flat" alt="skoczy01" /> </p>
-<p align="left"> <img src="https://img.shields.io/badge/-filip.skoczylas00@icloud.com-05122A?style=flat&logo=icloud"/> 
+<p align="left"> <img src="https://img.shields.io/badge/-jumperweb3dev@gmail.com-05122A?style=flat&logo=icloud"/> 
   <img src="https://img.shields.io/badge/-skoczy_3145-05122A?style=flat&logo=discord"/>
   <img src="https://img.shields.io/badge/-Wroc%C5%82aw-05122A?style=flat&logo=googlemaps"/></p>
 <table>
