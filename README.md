@@ -1,78 +1,34 @@
-<h1 align="center">Hi 👋, I'm Filip</h1>
+# Hello there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skoczy01&label=Profile%20views&color=0e75b6&style=flat" alt="skoczy01" /> </p>
-<p align="left"> <img src="https://img.shields.io/badge/-jumperweb3dev@gmail.com-05122A?style=flat&logo=icloud"/> 
-  <img src="https://img.shields.io/badge/-skoczy_3145-05122A?style=flat&logo=discord"/>
-  <img src="https://img.shields.io/badge/-Wroc%C5%82aw-05122A?style=flat&logo=googlemaps"/></p>
-<table>
-  <tr>
-    <td>
-      <h2> 💻 &nbsp;About Me </h2>
-       <ul>
-        <li>👑 &nbsp;Computer scientist </li>
-        <li>🎓 &nbsp;Frontend Developer interested in web3 but not only.</li>
-       </ul>
-       <p align="center">
-         <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jumperdevweb3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
-    </td>
-     <td>
-      <h2> 📚 &nbsp;Courses I have completed and can recommend </h2>
-       <ul>
-        <li>📖 &nbsp; <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/" >
-      React - The Complete Guide (incl Hooks, React Router, Redux)
-      </a> </li>
-        <li>📖 &nbsp; <a href="https://www.udemy.com/course/nextjs-react-the-complete-guide/" >
-      Next.js & React - The Complete Guide (incl. Two Paths!)
-      </a> </li>
-       <li>📖 &nbsp; <a href="https://www.udemy.com/course/understanding-typescript/" >
-      Understanding TypeScript - 2022 Edition
-      </a> </li>
-       </ul>
-       <p align="center">
-        <img height="150em" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.yourstory.com%2Fproduction%2Fdocument_image%2Fmystoryimage%2Fy8km26zg-becoming-a-web-developer-in-2016.jpg%3Ffm%3Dpng%26auto%3Dformat&f=1&nofb=1"/>
-     </p>
-    </td>
-  </tr>
-  <tr>
-   <td>
-     <h2> 🛠 &nbsp;Tech Stack</h2>
-     <br>
-     <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5"/>
-     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3"/>
-     <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass"/>
-     <br>
-     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
-     <img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript"/>
-     <img src="https://img.shields.io/badge/-API-05122A?style=flat&logo=javascript"/>
-     <br>
-     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
-     <img src="https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=react"/>
-     <img src="https://img.shields.io/badge/-React%20Redux-05122A?style=flat&logo=redux"/>
-     <img src="https://img.shields.io/badge/-Redux%20Toolkit-05122A?style=flat&logo=redux"/>
-     <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js"/>
-     <br>
-     <img src="https://img.shields.io/badge/-BEM-05122A?style=flat&logo=bem"/>
-     <img src="https://img.shields.io/badge/-RWD-05122A?style=flat&logo=css3" />
-     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-     <br>
-     <img src="https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite"/>
-     <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma"/>
-     <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>
-     <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode"/>
-     <img src="https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm"/>
-   </td>
-   <td>
-    <div align="center">
-      <h2><b>How to Reach Me</b></h2>
-      <br>
-      <p>I'm open to new contacts and proposals
-      </p>
-      <br>
-      <p>📧 &nbsp; jumperweb3dev@gmail.com </p>
-    </div>
-   </td>
-  </tr>
-</table>
+
+# About Me
+- 💻 Computer scientist & Frontend Developer interested in web3 but not only.
+- 📞 I'm open to new contacts and proposals
+
+# Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+# GitHub Stats
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+      <thead>
+        <tr>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api?username=JumperDevWeb3&show_icons=true&locale=en&theme=tokyonight"
+              alt="GitHub Stats"
+            />
+          </td>
+          <td>
+            <img
+              src="https://streak-stats.demolab.com/?user=JumperDevWeb3&theme=tokyonight"
+              alt="GitHub Stats"
+            />
+          </td>
+        </tr>
+      </thead>
+    </table>
+
+
+# Contact Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipskoczylas/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/jumperdevweb3) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jumperweb3dev@gmail.com) [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/160219447-filip)
+
