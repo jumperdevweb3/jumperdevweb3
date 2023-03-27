@@ -20,7 +20,7 @@
           </td>
           <td>
             <img
-              src="https://streak-stats.demolab.com/?user=JumperDevWeb3&theme=tokyonight"
+              src="https://streak-stats.demolab.com?user=jumperdevweb3&theme=dark"
               alt="GitHub Stats"
             />
           </td>
