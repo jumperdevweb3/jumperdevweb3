@@ -2,26 +2,30 @@
 
 ## About Me
 
-I'm a Full Stack Web Developer with a passion for creating robust and innovative web solutions. My expertise spans across frontend, backend, and Web3 technologies.
+I'm a Web3 Full Stack Web Developer with a passion for creating robust and innovative web solutions. My expertise spans across frontend, backend, and Web3 technologies.
 
 - 💻 Computer Scientist
 - 🌐 Full Stack Developer
 - ⛓️ Web3 Enthusiast
 
+### Achievements
+
+🏆 **First Place Winner** in the [Infinite Space Bazaar Hackathon](https://blog.celestia.org/infinite-space-bazaar-winners) by Celestia
+- Project: Blessed - an event ticketing platform
+
+This achievement demonstrates my ability to develop innovative solutions in the Web3 space and collaborate effectively in a team environment. The Infinite Space Bazaar was a global online hackathon that attracted over 1400 participants and 70+ submissions, making this first-place win even more significant.
+
 ## Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Web3
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
